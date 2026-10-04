@@ -10,7 +10,7 @@ load_dotenv()
 
 CHAT_MODEL = "openai/gpt-4o"
 IMAGE_MODEL = "openai/gpt-image-1"
-VIDEO_MODEL = "google/veo-3.1"
+VIDEO_MODEL = "google/veo-3.1-lite"
 
 
 client = RodiumAI(
